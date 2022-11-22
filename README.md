@@ -1,7 +1,7 @@
 # Supply-Chain-Shipment-Price-Prediction
 ## **1. Problem**
 
-For a given supply chain data, let's try to predict the price ****of product including shipping.
+For a given supply chain data, let's try to predict the price of product including shipping.
 
 We will use a lots of Classical ML algorithms to make our predictions and at the end decide which suits best for us.
 
